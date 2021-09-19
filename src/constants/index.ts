@@ -1,0 +1,6 @@
+export const GET_RESULTS = 'GET_RESULTS';
+export const RESULTS_RECEIVED = ' RESULTS_RECEIVED';
+export const RESULTS_FAILED = 'GET_ RESULTS_FAILED';
+
+export const SET_ANSWERS = 'SET_ANSWERS';
+export const CLEAR_ANSWERS = 'CLEAR_ANSWERS';
